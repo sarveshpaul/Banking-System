@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.footer {
+    padding: 10px;
+    font-family: calibri;
+    font-weight: 1000;
+}
+span {
+    color: green;
+}
+.name {
+    color: red;
+}
